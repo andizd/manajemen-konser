@@ -95,7 +95,7 @@ def menu():
         print("=== MENU MANAJEMEN KONSER ===")
         print("1. Tambah Konser")
         print("2. Lihat Semua Konser")
-        print("3. Cari Konser")  # ← Tambahkan opsi ini
+        print("3. Cari Konser ")  # ← Tambahkan opsi ini
         print("4. Update Konser")
         print("5. Hapus Konser")
         print("6. Keluar")
