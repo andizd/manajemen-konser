@@ -72,7 +72,7 @@ def update_concert():
         else:
             print('ID Tidak Ditemukan!')
     except ValueError:
-        print('Input Tidak Valid')
+        print('Input Tidak Benar')
 
 # --- DELETE ---
 def delete_concert():
